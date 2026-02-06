@@ -1,0 +1,76 @@
+,name,rating,reviews,latitude,longitude,Price Tier ($-$$$$),Developer,Type
+0,Cafe Lago,3.8,339,47.63973,-122.30226,$$,David Mwangi,cafe
+1,Hanok,4.5,178,47.63383,-122.28028,$$,David Mwangi,restaurant
+2,D' La Santa,4.6,533,47.64123,-122.3202,$$,David Mwangi,restaurant
+3,Arosa Cafe,4.5,188,47.62622241,-122.2918318,$,David Mwangi,cafe
+4,Taurus Ox,4.6,575,47.62715009,-122.3076368,$$,David Mwangi,restaurant
+5,U DupBop,4.3,83,47.65774,-122.31289,$$,David Mwangi,restaurant
+6,Agua Verde Cafe,3.5,1303,47.65161,-122.31441,$$,David Mwangi,cafe
+7,Portage Bay Cafe,3.9,3000,47.657599,-122.317569,$$,David Mwangi,restaurant
+8,Little Duck,3.9,139,47.65701999,-122.3175059,$$,David Mwangi,restaurant
+9,Otter Bar And Burger,3.9,170,47.6418537,-122.3261937,$$,David Mwangi,bar
+10,Johnny Mo's Pizzeria,4.3,215,47.65142,-122.32083,$$,David Mwangi,restaurant
+11,Son of A Butcher,3.7,232,47.63937,-122.32551,$$,David Mwangi,restaurant
+12,Voula's Offshore Cafe,4.1,761,47.65476,-122.32155,$$,David Mwangi,cafe
+13,The French Guys,4.4,163,47.625254,-122.321647,$$,David Mwangi,cafe
+14,Monsoon Seattle,3.8,857,47.62493,-122.3076,$$,David Mwangi,restaurant
+15,Pecado Bueno,3.6,168,47.64122,-122.32552,$$,David Mwangi,restaurant
+16,Cafe Flora,4,1715,47.62397,-122.29521,$$,David Mwangi,cafe
+17,Volunteer Park Cafe & Pantry,4.3,135,47.63258869,-122.3100284,$$,David Mwangi,cafe
+18,Little Water Cantina,3,617,47.64723,-122.32491,$$,David Mwangi,restaurant
+19,14 Carrot Cafe,3.9,401,47.63995,-122.32612,$$,David Mwangi,cafe
+20,Star Sushi & Bar,4.6,283,47.624122,-122.320589,$$,David Mwangi,bar
+21,Cornelly,4.2,327,47.624577,-122.325577,$$,David Mwangi,restaurant
+22,Ivar's Salmon House,3.5,1532,47.6536199,-122.32404,$$,David Mwangi,restaurant
+23,Rocket Taco,4.1,230,47.62430469,-122.3071303,$$,Jack Rainlyn,restaurant
+24,Ivar's Fish Bar,3.5,126,47.6536199,-122.32404,$$,Jack Rainlyn,restaurant
+25,Gyro House,3.6,125,47.641139,-122.320332,$,Jack Rainlyn,restaurant
+26,Herb & Bitter Public House,4,428,47.6236191,-122.3207092,$$,Jack Rainlyn,bar
+27,Eastlake Specialty Market,4,46,47.63342477,-122.3253795,$,Jack Rainlyn,restaurant
+28,Hamlin Market and Deli,4.4,73,47.6453892,-122.3262592,$,Jack Rainlyn,restaurant
+29,Siam On Eastlake,3.6,383,47.63461,-122.32556,$$,Jack Rainlyn,restaurant
+30,Madison Kitchen,3.9,159,47.63548,-122.27895,$,Jack Rainlyn,restaurant
+31,Grand Central Bakery,3.5,263,47.63490343,-122.3254777,$$,Jack Rainlyn,cafe
+32,Red Brick Bistro,3.3,16,47.62652,-122.32957,$,Jack Rainlyn,cafe
+33,Cafe Happy,3.9,58,47.655377,-122.3127984,$,Jack Rainlyn,cafe
+34,Le Fournil,4.1,442,47.65085939,-122.3214959,$,Jack Rainlyn,cafe
+35,Single Shot,4.4,343,47.624687,-122.325476,$$,Jack Rainlyn,restaurant
+36,Pagliacci Pizza,4.2,115,47.64149857,-122.3197327,$$,Jack Rainlyn,restaurant
+37,Shultzy's Bar & Grill,3.6,447,47.65735,-122.3129,$$,Jack Rainlyn,bar
+38,Macrina Bakery & Cafe,3.6,156,47.62658,-122.30691,$$,Jack Rainlyn,cafe
+39,Harry's Fine Foods,4.2,318,47.624421,-122.326776,$$,Jack Rainlyn,restaurant
+40,Eastlake Coffee + Cafe,4,248,47.639598,-122.326125,$,Jack Rainlyn,cafe
+41,Voila! Bistrot,4,300,47.623527,-122.295849,$$,Jack Rainlyn,restaurant
+42,Teriyaki Bowl,3.9,62,47.62623058,-122.2918739,$,Jack Rainlyn,restaurant
+43,Pazzo's,3.6,203,47.64007,-122.32617,$$,Jack Rainlyn,bar
+44,Harry's Bar,4.4,132,47.623754,-122.31245,$$,Jack Rainlyn,bar
+45,Olympia Pizza and Spaghetti House III,4,337,47.62383,-122.312445,$$,Jack Rainlyn,restaurant
+46,Bait Shop,4.3,294,47.624656,-122.320616,$$,Jack Rainlyn,bar
+47,Nuflours,4.3,271,47.62388,-122.31245,$,Reed Bayless,cafe
+48,Cafe Solstice,3.7,446,47.657406,-122.3129379,$,Reed Bayless,cafe
+49,Jae's Asian Bistro & Sushi,4.1,252,47.62343,-122.2959,$$,Reed Bayless,restuarant
+50,Pagliacci Pizza,3.6,106,47.6254949,-122.2928304,$,Reed Bayless,restuarant
+51,Liberty,4,640,47.623587,-122.312901,$$,Reed Bayless,bar
+52,Cultivate,3,125,47.65670596,-122.3147476,$$,Reed Bayless,restuarant
+53,Rom Mai Thai,3.7,551,47.6244253,-122.3209299,$$,Reed Bayless,restuarant
+54,Jamjuree Thai Cuisine,3.8,659,47.62346,-122.31293,$$,Reed Bayless,cafe
+55,Scoop Du Jour Ice Creamery,4.1,83,47.634,-122.28019,$,Reed Bayless,bar
+56,Summit Public House,4.1,122,47.62440178,-122.3254716,$,Reed Bayless,bar
+57,The Rotunda,2.5,22,47.65114217,-122.3105809,$,Reed Bayless,restuarant
+58,Belle Epicurean Bakery,3.6,252,47.62603,-122.29199,$$,Reed Bayless,cafe
+59,Local Point,1.9,17,47.65586,-122.3150239,$,Reed Bayless,restaurant
+60,Hanuman Thai Cafe - Madison,4.2,18,47.62386,-122.2961,$$,Reed Bayless,cafe
+61,DeLuxe Bar & Grill,3.4,581,47.6249323,-122.3211386,$$,Reed Bayless,bar
+62,Corvus & Company,4.1,173,47.6245199,-122.3213,$$,Reed Bayless,bar
+63,Firecracker Pan Asian Cuisine,1.6,11,47.655336,-122.305146,$,Reed Bayless,restaurant
+64,Plaza Cafe,2.8,20,47.64995047,-122.3083668,$,Reed Bayless,cafe
+65,The Lookout Bar and Grill,3.6,234,47.6266812,-122.3267819,$$,Reed Bayless,bar
+66,By George!,1.7,20,47.656477,-122.310448,$,Reed Bayless,cafe
+67,Red Radish,3.4,5,47.65520489,-122.3051289,$,Reed Bayless,restuarant
+68,Pho Than Brothers,3.7,188,47.6238897,-122.3211143,$,Reed Bayless,restuarant
+69,Pagliacci Pizza,3.3,4,47.6558651,-122.3151462,$,Reed Bayless,restuarant
+70,DUB Street Burgers,2.6,7,47.65520489,-122.3052362,$$,Reed Bayless,restuarant
+71,The Patio Fine Thai Cuisine,3.6,218,47.62404,-122.31234,$$,Reed Bayless,restuarant
+72,Red Square BBQ & Hot Dawgs,2.8,12,47.65592923,-122.3095721,$,Reed Bayless,restaurant
+73,Hopvine Pub,3.7,253,47.62320004,-122.3126613,$$,Reed Bayless,bar
+74,Siganos,2.3,4,47.6511116,-122.3091202,$,Reed Bayless,restaurant
